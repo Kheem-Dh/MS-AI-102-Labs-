@@ -4,22 +4,22 @@ Welcome to the Microsoft Azure 102 Labs repository, where you'll find a comprehe
 ### Topics Covered:
 
 #### Lecture - 1: Prepare for AI Engineering
- Markup : - Get ready to embark on your AI Engineering journey by understanding the essential concepts and prerequisites needed for Azure AI development.
+ * Get ready to embark on your AI Engineering journey by understanding the essential concepts and prerequisites needed for Azure AI development.
 
 #### Lecture - 2: Provision and Manage Azure AI Services
- Markup : - Learn how to provision and effectively manage Azure AI Services to harness the full potential of Microsoft Azure for AI applications.
+ * Learn how to provision and effectively manage Azure AI Services to harness the full potential of Microsoft Azure for AI applications.
 
 #### Lecture - 3: Process and Translate Text with Azure AI Services
- Markup : - Dive into text processing and translation using Azure AI Services, gaining insights into natural language processing and translation capabilities.
+ * Dive into text processing and translation using Azure AI Services, gaining insights into natural language processing and translation capabilities.
 
 #### Lecture - 4: Process and Translate Speech with Azure AI Speech Services
- Markup : - Explore the world of speech processing and translation as you work with Azure AI Speech Services to convert spoken language into text and vice versa.
+ * Explore the world of speech processing and translation as you work with Azure AI Speech Services to convert spoken language into text and vice versa.
 
 #### Lecture - 5: Create a Language Understanding Solution with Azure AI Language
- Markup : - Develop language understanding solutions using Azure AI Language, enabling your applications to comprehend and respond to user inputs with ease.
+ * Develop language understanding solutions using Azure AI Language, enabling your applications to comprehend and respond to user inputs with ease.
 
 #### Lecture - 6: Create a Question Answer Solution
- Markup : - Build question-answering solutions that leverage the power of Azure AI to extract meaningful answers from text or speech inputs, enhancing user interactions and information retrieval.
+ * Build question-answering solutions that leverage the power of Azure AI to extract meaningful answers from text or speech inputs, enhancing user interactions and information retrieval.
 Whether you're a student, developer, or AI enthusiast, these labs provide a hands-on, practical approach to mastering Microsoft Azure's AI capabilities. Each lecture is accompanied by step-by-step guides and code samples to help you grasp the concepts and implement them effectively.
 
 Start your AI Engineering journey today with Microsoft Azure 102 Labs and empower yourself with the knowledge and skills needed to create intelligent applications and solutions.
